@@ -1,0 +1,27 @@
+{
+    "name": "samueletur/ipag-laravel",
+    "description": "Make requests to the IPag API",
+    "license": "MIT",
+    "keywords": [
+        "ipag",
+        "laravel"
+    ],
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Samueletur\\IpagLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Samuel Etur",
+            "email": "samuel@incode.com.br",
+            "role": "Backend Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.0|^8.1"
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev"
+}
